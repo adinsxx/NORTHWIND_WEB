@@ -1,0 +1,7 @@
+.discontinued {
+  opacity: 0.5;
+}
+
+#product_rows tr {
+  cursor: pointer;
+}
